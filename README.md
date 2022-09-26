@@ -1,2 +1,2 @@
 # jira_clone
-A jira_clone application implemented in Spring ecosystem, with Angular frontend.
+A Jira clone application implemented in Spring ecosystem, with Angular frontend.
